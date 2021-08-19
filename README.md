@@ -1,8 +1,8 @@
-**Computer Graphics (CSC 4118)**
-Course Instructor: Dipta Justin Gomes
-Project Report
-Summer 20-21, Section- I
-Fayeaz Ahmed : 19-39360-1
+**Computer Graphics (CSC 4118)**<br>
+Course Instructor: Dipta Justin Gomes<br>
+Project Report<br>
+Summer 20-21, Section- I<br>
+Fayeaz Ahmed : 19-39360-1<br>
 
 ***Project title:*** Ancient Egypt
 
